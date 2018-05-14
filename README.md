@@ -1,1 +1,3 @@
 # bacheloroppgave
+
+Her ligger et utvalg av de brukte skriptene til bacheloroppgaven. Kun en par av de helt enkleste skriptene, samt de som til slutt ble brukt er lastet opp. De ferdige skriptene har vært gjennom en stor mengde modifiseringer for å komme frem til de endelige resultatene. I tillegg ligger koden til de to testprogrammene ute. Ettersom vi ikke har rettigheter til å legge ut NEEDED og CardioMiner, og disse programmene ikke er laget av oss, kan denne koden ikke legges ut her.
